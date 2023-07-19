@@ -1,0 +1,16 @@
+{
+    "name": "Eslam",
+    "age": "30",
+    "email": "aboeshaeslam2@gmail.com",
+    "address": {
+        "country": "Egypt",
+        "state": "Elbeharia",
+        "city": "Itay Elbaroud",
+        "street": "Aboesha Street",
+        "postcode": "10001"
+    },
+    "phoneNumbers": [
+        "01097423297",
+        "01556532370"
+    ]
+}

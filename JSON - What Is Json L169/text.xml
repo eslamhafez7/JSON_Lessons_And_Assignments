@@ -1,0 +1,15 @@
+<person>
+    <name>John Doe</name>
+    <age>30</age>
+    <email>johndoe@example.com</email>
+    <address>
+        <street>123 Main Street</street>
+        <city>New York</city>
+        <state>NY</state>
+        <postalCode>10001</postalCode>
+    </address>
+    <phoneNumbers>
+        <phoneNumber>+1 123-456-7890</phoneNumber>
+        <phoneNumber>+1 987-654-3210</phoneNumber>
+    </phoneNumbers>
+</person>

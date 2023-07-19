@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Eslam",
+        "category": "Javascript",
+        "title": "Title1",
+        "content": "Article Number One"
+    },
+    {
+        "id": 2,
+        "name": "Osama",
+        "category": "PHP",
+        "title": "Title2",
+        "content": "Article Number Two"
+    },
+    {
+        "id": 3,
+        "name": "Sayed",
+        "category": "CSS",
+        "title": "Title3",
+        "content": "Article Number Three"
+    },
+    {
+        "id": 4,
+        "name": "Khaled",
+        "category": "Python",
+        "title": "Title4",
+        "content": "Article Number Four"
+    },
+    {
+        "id": 5,
+        "name": "Sara",
+        "category": "CSS",
+        "title": "Title5",
+        "content": "Article Number Five"
+    }
+]
